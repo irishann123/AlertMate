@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913061584547",
+    "project_id": "reminder-app-5d832",
+    "storage_bucket": "reminder-app-5d832.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913061584547:android:2df750dfb33aaf5ae8e916",
+        "android_client_info": {
+          "package_name": "com.example.alertmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXYRS-ZFZtUMEBdhEahWhUA9KL1pvE4q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
